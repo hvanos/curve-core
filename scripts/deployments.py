@@ -11,6 +11,14 @@ deployments = {
         "gauge": "0x38D9BdA812da2C68dFC6aDE85A7F7a54E77F8325",
         "zap": "0xDfeF1725Ab767f165171709C6d1E1A6247425fE0",
     },
+    "base:sepolia": {
+    "math": "0x3E88cDBE8D665C8044012Ee39bFa051Eb515D816",
+    "views": "0x3E88cDBE8D665C8044012Ee39bFa051Eb515D816",
+    "plain_amm": "0x3E88cDBE8D665C8044012Ee39bFa051Eb515D816",
+    "meta_amm": "0x3E88cDBE8D665C8044012Ee39bFa051Eb515D816",
+    "factory": "0x3E88cDBE8D665C8044012Ee39bFa051Eb515D816",
+    "zap": "0x3E88cDBE8D665C8044012Ee39bFa051Eb515D816",
+    },
     "ethereum:sepolia": {
         "math": "0x2cad7b3e78e10bcbf2cc443ddd69ca8bcc09a758",
         # "views": "0x9d3975070768580f755D405527862ee126d0eA08",
