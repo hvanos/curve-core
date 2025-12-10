@@ -47,6 +47,12 @@ arbitrum:
   mainnet:
     transaction_acceptance_timeout: 99999999
 
+base:
+  default_network: sepolia
+  sepolia:
+    transaction_acceptance_timeout: 99999999
+    default_provider: alchemy 
+
 geth:
   ethereum:
     mainnet:
